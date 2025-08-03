@@ -4,7 +4,13 @@ Just like the official Magisk Modules repository (now defunct), this is where yo
 Note: You can browse and install those modules via [MMRL](https://github.com/DerGoogler/MMRL) or the [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager), a continuation of the [Fox's Magisk Module Manager](https://github.com/Fox2Code/FoxMagiskModuleManager/releases) project. Alternatively you can use the [Telegram Channel](https://t.me/MagiskModulesAltRepo) to receive Magisk modules updates.
 
 # Module Submissions
-Create an [issue](https://github.com/Magisk-Modules-Alt-Repo/submission/issues) on this repository with `[Module] <Your module's name>` in the title and include the link to your repo in the content, then wait for a moderator to approve or deny your module. Once approved, a moderator will mirror your personal repo to the Alt-Repo and give you ownership of it. It is best to then archive your personal repo and work soley here or set up parallel remote push URLs with git.
+Create an [issue](https://github.com/Magisk-Modules-Alt-Repo/submission/issues) on this repository with `[Module] <Your module's name>` in the title and include the link to your repo in the content, then wait for a moderator to approve or deny your module. Once approved, a moderator will mirror your personal repo to the Alt-Repo and give you ownership of it. Afterwards, you should either:
+
+- Set up parallel remote push URLs with git;  
+or  
+- Configure automatic repo sync between your two repositories (push/pull);  
+or  
+- Archive your personal repo and work solely here.
 
 # Submission Guidelines
 We want to make sure that there are no dangerous modules on the Alt-Repo. Please abide by these guidelines.
