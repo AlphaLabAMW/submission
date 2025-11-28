@@ -1,5 +1,5 @@
 # Magisk Modules Alternative Repository Submissions
-Just like the official Magisk Modules repository (now defunct), this is where you can submit your modules.
+Just like the official Magisk Modules repository (which is now defunct), this is where you can submit your modules.
 
 Note: You can browse and install those modules via [MMRL](https://github.com/DerGoogler/MMRL) or the [Androidacy Module Manager](https://github.com/Androidacy/MagiskModuleManager), a continuation of the [Fox's Magisk Module Manager](https://github.com/Fox2Code/FoxMagiskModuleManager/releases) project. Alternatively you can use the [Telegram Channel](https://t.me/MagiskModulesAltRepo) to receive Magisk modules updates.
 
